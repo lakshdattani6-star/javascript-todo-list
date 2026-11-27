@@ -4,7 +4,7 @@ A simple and interactive To-Do List web application built using HTML, CSS and Va
 
 ## Live Demo
 
-https://lighthearted-hotteok-3b1cb4.netlify.app/
+https://laksh-todo-list.netlify.app/
 
 ## Project Overview
 
